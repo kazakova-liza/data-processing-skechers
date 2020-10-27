@@ -21,7 +21,7 @@ const assignInventory = () => {
             }
         }
     }
-    console.log(`ords3: ${JSON.stringify(ords3)}`);
+    //console.log(`ords3: ${JSON.stringify(ords3)}`);
 
     cache.dataForMySql.push(...ords3);
 

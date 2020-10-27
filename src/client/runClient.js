@@ -200,7 +200,7 @@ ws.onmessage = function (e) {
                     })
                 }
             }
-            table.innerHTML = json2Table(dataForTable);
+            //table.innerHTML = json2Table(dataForTable);
         }
     }
 
